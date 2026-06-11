@@ -1,0 +1,1 @@
+Video Game Tracker je web aplikacija izgrađena u PHP-u koja korisnicima omogućuje pretraživanje enciklopedije videoigara, upravljanje vlastitom kolekcijom i ocjenjivanje odigranih naslova. Podaci o igrama dohvaćaju se u stvarnom vremenu putem vanjskog [RAWG API-ja](https://rawg.io/apidocs).
